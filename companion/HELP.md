@@ -2,7 +2,7 @@
 
 Control open instances of Chrome or Firefox via [Puppeteer](https://pptr.dev/) remote debugging.
 
-> **Warning:** This module gives full automated access to your open browser window to potentially any device on your network. This means your saved data, cookies, history, open webpages, etc. It is strongly recommended for security reasons that you run this in a dedicated empty browser profile.
+> **Warning:** Configuring your browser to work with this module gives full remote access to potentially any device on your network. This means your saved data, cookies, history, open webpages, etc. It is strongly recommended for security reasons that you use a dedicated browser profile without sensitive information.
 
 ## Config
 1. Start the browser with the steps below.
